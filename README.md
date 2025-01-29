@@ -54,9 +54,13 @@ _Activities_: Consultant, International Bruins in Business; Project Lead, ArtRea
 
 ## Certifications📝
 
+### AWS Certifications
+* AWS Certified Cloud Practitioner
+
 ### Microsoft Certified
 * Azure Fundamentals
 * Azure Data Fundamentals
+* Azure AI Fundamentals
 
 ## Data Engineeting
 * Alteryx Designer Core 
